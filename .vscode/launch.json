@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "classPaths": [
+        "lib/sqlite-jdbc-3.49.1.0.jar"
+      ]
+    }
+  ]
+}
