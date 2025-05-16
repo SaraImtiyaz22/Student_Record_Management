@@ -22,5 +22,5 @@ A simple Java-based CLI (Command-Line Interface) application for managing studen
    javac -cp "lib/sqlite-jdbc-3.49.1.0.jar" *.java
    java -cp ".;lib/sqlite-jdbc-3.49.1.0.jar" Main
 
-**Author**
+## Author
 Sara Imtiyaz 
